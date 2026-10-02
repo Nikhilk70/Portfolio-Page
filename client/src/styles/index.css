@@ -1,0 +1,172 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #05060a;
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+body {
+  @apply bg-ink-950 text-slate-200 font-sans antialiased;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: rgba(139, 92, 246, 0.45);
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #090b12;
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(#8b5cf6, #22d3ee);
+  border-radius: 999px;
+}
+
+@media (pointer: fine) {
+  body.custom-cursor,
+  body.custom-cursor a,
+  body.custom-cursor button {
+    cursor: none;
+  }
+}
+
+@layer components {
+  .container-x {
+    @apply mx-auto w-full max-w-7xl px-5 sm:px-8;
+  }
+
+  .section {
+    @apply relative py-24 sm:py-32;
+    /* decorative glows may hang off the edge; never let them create horizontal scroll */
+    overflow-x: clip;
+  }
+
+  .eyebrow {
+    @apply inline-flex items-center gap-3 font-mono text-[11px] uppercase tracking-[0.3em] text-violet-soft/80;
+  }
+  .eyebrow::before {
+    content: '';
+    @apply h-px w-8 bg-gradient-to-r from-violet to-cyan;
+  }
+
+  .h-section {
+    @apply font-display text-4xl font-bold leading-[1.05] tracking-tight text-white sm:text-5xl lg:text-6xl;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-violet-soft via-white to-cyan-soft bg-clip-text text-transparent;
+  }
+
+  .glass {
+    @apply border border-white/10 bg-white/[0.03] backdrop-blur-xl;
+  }
+
+  .card {
+    @apply glass rounded-3xl transition-all duration-500;
+  }
+  .card:hover {
+    @apply border-white/20 bg-white/[0.05];
+  }
+
+  .btn {
+    @apply relative inline-flex items-center justify-center gap-2 rounded-full px-7 py-3.5 text-sm font-medium transition-all duration-300;
+  }
+  .btn-primary {
+    @apply btn bg-white text-ink-950 hover:bg-violet-soft hover:shadow-glow;
+  }
+  .btn-outline {
+    @apply btn border border-white/15 text-white hover:border-violet hover:text-violet-soft;
+  }
+
+  .chip {
+    @apply inline-flex items-center rounded-full border border-white/10 bg-white/[0.04] px-3 py-1 font-mono text-[11px] tracking-wide text-slate-300;
+  }
+
+  .grid-bg {
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+    background-size: 64px 64px;
+    mask-image: radial-gradient(ellipse at center, black 30%, transparent 75%);
+  }
+
+  .noise::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.06;
+    mix-blend-mode: overlay;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  .accent-violet { --accent: 139 92 246; }
+  .accent-cyan { --accent: 34 211 238; }
+  .accent-emerald { --accent: 52 211 153; }
+  .accent-orange { --accent: 251 146 60; }
+  .accent-pink { --accent: 244 114 182; }
+  .accent-blue { --accent: 96 165 250; }
+
+  .accent-bg { background: rgb(var(--accent) / 0.14); }
+  .accent-text { color: rgb(var(--accent)); }
+  .accent-border { border-color: rgb(var(--accent) / 0.35); }
+  .accent-glow { box-shadow: 0 0 80px -20px rgb(var(--accent) / 0.6); }
+}
+
+.spotlight-card {
+  position: relative;
+  overflow: hidden;
+}
+.spotlight-card::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.5s;
+  background: radial-gradient(500px circle at var(--mx, 50%) var(--my, 50%), rgb(var(--accent, 139 92 246) / 0.18), transparent 45%);
+}
+.spotlight-card:hover::before {
+  opacity: 1;
+}
+
+/* hero surname: one continuous, slowly shifting gradient */
+.name-gradient {
+  background-image: linear-gradient(100deg, #c4b5fd 0%, #8b5cf6 30%, #22d3ee 60%, #a5f3fc 80%, #c4b5fd 100%);
+  background-size: 220% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: nameShift 7s ease-in-out infinite alternate;
+}
+@keyframes nameShift {
+  from { background-position: 0% 50%; }
+  to { background-position: 100% 50%; }
+}
+
+.text-stroke {
+  -webkit-text-stroke: 1px rgba(255, 255, 255, 0.18);
+  color: transparent;
+}

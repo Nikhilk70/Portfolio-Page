@@ -1,0 +1,939 @@
+{
+  "profile": {
+    "name": "Nikhil K K",
+    "firstName": "Nikhil",
+    "roles": [
+      "MERN Stack Developer",
+      "React.js Engineer",
+      "Node.js Backend Developer",
+      "AI Integration Specialist"
+    ],
+    "headline": "Full Stack Developer building fast, scalable and AI-powered web experiences.",
+    "summary": "A skilled MERN Stack Developer with expertise in React.js and Node.js, experienced in developing dynamic, responsive, and scalable web applications. Proficient in backend development, database management, and API integration using Node.js, PostgreSQL, MySQL, and SQLite. Strong foundation in frontend technologies including HTML, CSS, JavaScript, React.js, and Bootstrap. Passionate about building high-performance, user-focused applications with maintainable code.",
+    "about": [
+      "I'm a Full Stack Developer based in Bengaluru, currently working at Marutiflex Traders LLP where I build and scale enterprise web applications with role-based access control, workflow automation and data-heavy dashboards.",
+      "Beyond classic web development, I integrate AI into real products: Retrieval-Augmented Generation (RAG) systems, Model Context Protocol (MCP) connections, and AI assistants embedded inside CRM tools. I test and document every API I ship with Postman.",
+      "I care about clean architecture, reusable components and shipping interfaces that feel fast and polished on every device."
+    ],
+    "location": "Bengaluru, Karnataka, India",
+    "email": "nikhilksiva70@gmail.com",
+    "phone": "+91 7994162314",
+    "availability": "Open to full-time roles & freelance projects",
+    "resumeUrl": "https://drive.google.com/file/d/14nbr6WQ3OXooiwl6ghKvImikFhc_yB0h/view?usp=sharing",
+    "avatar": "/profile.png",
+    "yearsOfExperience": "1.5+",
+    "whatsapp": "917994162314",
+    "whatsappUrl": "https://wa.me/917994162314?text=Hi%20Nikhil%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20connect."
+  },
+  "socials": [  
+    {
+      "id": "github",
+      "label": "GitHub",
+      "url": "https://github.com/Nikhilk70",
+      "icon": "github"
+    },
+    {
+      "id": "linkedin",
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/nikhil-k-k-600a49256/",
+      "icon": "linkedin"
+    },
+    {
+      "id": "whatsapp",
+      "label": "WhatsApp",
+      "url": "https://wa.me/917994162314?text=Hi%20Nikhil%2C%20I%20saw%20your%20portfolio%20and%20would%20like%20to%20connect.",
+      "icon": "whatsapp"
+    },
+    {
+      "id": "email",
+      "label": "Email",
+      "url": "mailto:nikhilksiva70@gmail.com",
+      "icon": "mail"
+    },
+    {
+      "id": "phone",
+      "label": "Phone",
+      "url": "tel:+917994162314",
+      "icon": "phone"
+    }
+  ],
+  "stats": [
+    {
+      "id": "exp",
+      "value": 1.5,
+      "suffix": "+",
+      "label": "Years Experience"
+    },
+    {
+      "id": "ui",
+      "value": 15,
+      "suffix": "+",
+      "label": "UIs & Components Shipped"
+    },
+    {
+      "id": "projects",
+      "value": 8,
+      "suffix": "+",
+      "label": "Projects Built"
+    },
+    {
+      "id": "errors",
+      "value": 70,
+      "suffix": "%",
+      "label": "Production Errors Reduced"
+    }
+  ],
+  "marquee": [
+    {
+      "name": "React.js",
+      "icon": "react"
+    },
+    {
+      "name": "Next.js",
+      "icon": "next"
+    },
+    {
+      "name": "Node.js",
+      "icon": "node"
+    },
+    {
+      "name": "Express.js",
+      "icon": "express"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "js"
+    },
+    {
+      "name": "TypeScript",
+      "icon": "ts"
+    },
+    {
+      "name": "HTML5",
+      "icon": "html"
+    },
+    {
+      "name": "CSS3",
+      "icon": "css"
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "tailwind"
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "bootstrap"
+    },
+    {
+      "name": "Python",
+      "icon": "python"
+    },
+    {
+      "name": "Django",
+      "icon": "django"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "postgres"
+    },
+    {
+      "name": "MySQL",
+      "icon": "mysql"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "mongodb"
+    },
+    {
+      "name": "SQLite",
+      "icon": "sqlite"
+    },
+    {
+      "name": "Firebase",
+      "icon": "firebase"
+    },
+    {
+      "name": "REST APIs",
+      "icon": "api"
+    },
+    {
+      "name": "Postman",
+      "icon": "postman"
+    },
+    {
+      "name": "RAG Systems",
+      "icon": "rag"
+    },
+    {
+      "name": "MCP Servers",
+      "icon": "mcp"
+    },
+    {
+      "name": "AI in CRM",
+      "icon": "ai"
+    },
+    {
+      "name": "Claude AI",
+      "icon": "claude"
+    },
+    {
+      "name": "GitHub Copilot",
+      "icon": "copilot"
+    },
+    {
+      "name": "Cursor AI",
+      "icon": "cursor"
+    },
+    {
+      "name": "Git",
+      "icon": "git"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github"
+    },
+    {
+      "name": "Figma",
+      "icon": "figma"
+    },
+    {
+      "name": "AppScript",
+      "icon": "appscript"
+    },
+    {
+      "name": "Vite",
+      "icon": "vite"
+    },
+    {
+      "name": "Vercel",
+      "icon": "vercel"
+    }
+  ],
+  "heroCards": [
+    {
+      "id": "frontend",
+      "label": "Frontend",
+      "title": "React · Next.js · Tailwind",
+      "accent": "cyan",
+      "icons": [
+        "react",
+        "next",
+        "tailwind",
+        "js"
+      ]
+    },
+    {
+      "id": "backend",
+      "label": "Backend",
+      "title": "Node · Express · Django",
+      "accent": "emerald",
+      "icons": [
+        "node",
+        "express",
+        "django",
+        "python"
+      ]
+    },
+    {
+      "id": "data",
+      "label": "Database & APIs",
+      "title": "Postgres · Mongo · Postman",
+      "accent": "orange",
+      "icons": [
+        "postgres",
+        "mongodb",
+        "firebase",
+        "postman"
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "AI Integration",
+      "title": "RAG · MCP · CRM AI",
+      "accent": "violet",
+      "icons": [
+        "claude",
+        "rag",
+        "mcp",
+        "copilot"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": "languages",
+      "title": "Languages",
+      "icon": "code",
+      "items": [
+        {
+          "name": "JavaScript (ES6+)",
+          "level": 90
+        },
+        {
+          "name": "Python",
+          "level": 80
+        },
+        {
+          "name": "HTML5",
+          "level": 95
+        },
+        {
+          "name": "CSS3 / SCSS",
+          "level": 90
+        },
+        {
+          "name": "SQL",
+          "level": 75
+        },
+        {
+          "name": "TypeScript",
+          "level": 65
+        }
+      ]
+    },
+    {
+      "id": "frameworks",
+      "title": "Frameworks & Libraries",
+      "icon": "layers",
+      "items": [
+        {
+          "name": "React.js",
+          "level": 92
+        },
+        {
+          "name": "Next.js",
+          "level": 78
+        },
+        {
+          "name": "Node.js / Express",
+          "level": 82
+        },
+        {
+          "name": "Django / DRF",
+          "level": 78
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 88
+        },
+        {
+          "name": "Bootstrap",
+          "level": 85
+        },
+        {
+          "name": "Google AppScript",
+          "level": 70
+        }
+      ]
+    },
+    {
+      "id": "databases",
+      "title": "Databases & Backend",
+      "icon": "database",
+      "items": [
+        {
+          "name": "PostgreSQL",
+          "level": 78
+        },
+        {
+          "name": "MySQL",
+          "level": 75
+        },
+        {
+          "name": "MongoDB",
+          "level": 76
+        },
+        {
+          "name": "SQLite",
+          "level": 80
+        },
+        {
+          "name": "Firebase",
+          "level": 70
+        },
+        {
+          "name": "REST API Design",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Integrations",
+      "icon": "sparkles",
+      "items": [
+        {
+          "name": "RAG Systems",
+          "level": 78
+        },
+        {
+          "name": "MCP Connections",
+          "level": 75
+        },
+        {
+          "name": "AI Integration in CRM Tools",
+          "level": 80
+        },
+        {
+          "name": "Postman API Testing",
+          "level": 88
+        },
+        {
+          "name": "Third-party API Integrations",
+          "level": 86
+        },
+        {
+          "name": "Prompt Engineering",
+          "level": 80
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": "Tools & AI Assistants",
+      "icon": "wrench",
+      "items": [
+        {
+          "name": "Git & GitHub",
+          "level": 88
+        },
+        {
+          "name": "Postman",
+          "level": 88
+        },
+        {
+          "name": "Figma",
+          "level": 72
+        },
+        {
+          "name": "VS Code / Cursor AI",
+          "level": 90
+        },
+        {
+          "name": "GitHub Copilot",
+          "level": 85
+        },
+        {
+          "name": "Claude AI / ChatGPT / Lovable",
+          "level": 88
+        },
+        {
+          "name": "Google Docs & Workspace",
+          "level": 85
+        }
+      ]
+    },
+    {
+      "id": "soft",
+      "title": "Soft Skills",
+      "icon": "users",
+      "items": [
+        {
+          "name": "Client Communication",
+          "level": 90
+        },
+        {
+          "name": "Requirement Analysis",
+          "level": 88
+        },
+        {
+          "name": "Problem Solving",
+          "level": 90
+        },
+        {
+          "name": "Team Collaboration",
+          "level": 92
+        },
+        {
+          "name": "Time Management",
+          "level": 85
+        },
+        {
+          "name": "Adaptability",
+          "level": 90
+        }
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "rag",
+      "title": "RAG Systems",
+      "icon": "brain",
+      "accent": "violet",
+      "short": "Retrieval-Augmented Generation pipelines that let LLMs answer from your own data.",
+      "description": "I design end-to-end RAG pipelines: document ingestion & chunking, embeddings, vector search, and grounded LLM answers with citations. Ideal for internal knowledge bases, support bots and document Q&A.",
+      "points": [
+        "Document chunking & embeddings",
+        "Vector search (Pinecone / pgvector / Chroma)",
+        "Grounded answers with citations",
+        "Evaluation & hallucination guardrails"
+      ]
+    },
+    {
+      "id": "mcp",
+      "title": "MCP Connections",
+      "icon": "plug",
+      "accent": "cyan",
+      "short": "Model Context Protocol servers and clients that connect AI agents to real tools and data.",
+      "description": "I build Model Context Protocol (MCP) servers that expose APIs, databases and business tools to AI assistants like Claude and Cursor, enabling agents to search, read and act safely on live systems.",
+      "points": [
+        "Custom MCP servers in Node.js / Python",
+        "Tool, resource & prompt definitions",
+        "Secure auth & scoped access",
+        "Connecting Claude, Cursor & custom agents"
+      ]
+    },
+    {
+      "id": "postman",
+      "title": "Postman API Testing",
+      "icon": "flask",
+      "accent": "orange",
+      "short": "Reliable APIs backed by Postman collections, automated tests and documentation.",
+      "description": "Every API I ship comes with Postman collections, environment configs, automated test scripts and generated documentation so teams can test, monitor and onboard quickly.",
+      "points": [
+        "Collections & environments",
+        "Automated test scripts & runners",
+        "Mock servers & monitors",
+        "Auto-generated API docs"
+      ]
+    },
+    {
+      "id": "api",
+      "title": "API Integrations",
+      "icon": "network",
+      "accent": "emerald",
+      "short": "Seamless integration of REST & third-party services into web applications.",
+      "description": "From payment gateways to Google Workspace, I integrate third-party and internal REST APIs with robust error handling, caching, pagination and clean data flows into React frontends.",
+      "points": [
+        "REST API design & consumption",
+        "Payment, email & OTP services",
+        "Google Workspace / AppScript automation",
+        "Webhooks, retries & rate limits"
+      ]
+    },
+    {
+      "id": "crm-ai",
+      "title": "AI Integration in CRM Tools",
+      "icon": "bot",
+      "accent": "pink",
+      "short": "AI assistants, lead scoring and automation embedded directly inside CRM workflows.",
+      "description": "I bring LLM capabilities into CRM and enterprise tools: smart lead summaries, auto-drafted follow-ups, sentiment tagging, intelligent search and workflow automation that saves sales & support teams hours every week.",
+      "points": [
+        "AI lead summaries & scoring",
+        "Auto-drafted emails & follow-ups",
+        "Smart search over customer data",
+        "Workflow automation & triggers"
+      ]
+    },
+    {
+      "id": "fullstack",
+      "title": "Full Stack Development",
+      "icon": "layout",
+      "accent": "blue",
+      "short": "Production-ready React frontends with Node.js, Django and SQL/NoSQL backends.",
+      "description": "I build complete products: pixel-perfect, animated React interfaces, scalable Node.js or Django backends, authentication, role-based access and dashboards with sorting, filtering and pagination.",
+      "points": [
+        "React / Next.js frontends",
+        "Node.js & Django REST backends",
+        "Auth, RBAC & dashboards",
+        "Responsive, accessible UI"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "marutiflex",
+      "role": "Frontend Developer",
+      "company": "Marutiflex Traders LLP",
+      "location": "Bengaluru, India",
+      "type": "Full-time",
+      "start": "June 2025",
+      "end": "Present",
+      "current": true,
+      "summary": "Building and scaling an enterprise web application used across the organisation.",
+      "points": [
+        "Developed and enhanced a scalable enterprise web application with role-based access control, workflow automation and data management features, reducing manual processes and improving organisational productivity.",
+        "Designed and implemented 15+ responsive user interfaces and reusable components, ensuring cross-device compatibility and an improved user experience.",
+        "Integrated frontend modules with REST APIs, built dynamic tables with sorting, filtering and pagination, and optimised performance for seamless data handling.",
+        "Resolved recurring production issues through debugging, testing and code improvements, reducing application errors by approximately 70%.",
+        "Collaborated directly with project managers and clients to gather requirements, conduct discussions at client locations and translate business needs into scalable technical solutions."
+      ],
+      "tech": [
+        "React.js",
+        "JavaScript",
+        "REST APIs",
+        "Node.js",
+        "Tailwind CSS",
+        "Postman",
+        "AI Integration"
+      ]
+    },
+    {
+      "id": "druv360",
+      "role": "Frontend Developer (Internship)",
+      "company": "DRUV360° Entrepreneurs Hub",
+      "location": "Kochi, Kerala, India · Remote",
+      "type": "Internship",
+      "start": "January 2025",
+      "end": "March 2025",
+      "current": false,
+      "summary": "Backend-focused internship building REST APIs and authentication flows.",
+      "points": [
+        "Developed and maintained RESTful APIs using Python, Django and Django REST Framework (DRF) for web applications.",
+        "Implemented user authentication and authorisation features, including registration, login and OTP-based email verification.",
+        "Designed and integrated database models using Django ORM, ensuring efficient data management and retrieval.",
+        "Collaborated on backend development, API testing, debugging and performance optimisation to improve application reliability."
+      ],
+      "tech": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "SQLite",
+        "Postman",
+        "Git"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "bmv",
+      "slug": "book-my-venue",
+      "title": "Book My Venue",
+      "repoName": "BMV-Project-4",
+      "tagline": "React-based venue booking platform for weddings, parties & corporate events.",
+      "category": "Web App",
+      "featured": true,
+      "year": "2026",
+      "status": "Completed",
+      "role": "Frontend Developer",
+      "accent": "violet",
+      "description": "A responsive venue booking web application built with React.js that lets users browse, search and explore wedding, party and corporate event venues across cities. It features authentication with session management, role-based navigation, personalised dashboards and a scalable component architecture ready for backend and booking integrations.",
+      "highlights": [
+        "Browse, search and filter venues by city, category, capacity and budget.",
+        "Authentication & session management using React Context API and Local Storage with role-based navigation and personalised user dashboards.",
+        "Interactive UI components: city selector, dynamic filters, dropdown menus, popups and responsive navigation.",
+        "Scalable frontend architecture with React Hooks, React Router and reusable components, providing a foundation for future backend & booking integrations."
+      ],
+      "tech": [
+        "React.js",
+        "JavaScript (ES6+)",
+        "React Router",
+        "Context API",
+        "Local Storage",
+        "HTML5",
+        "CSS3",
+        "Font Awesome",
+        "Vite"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/BMV-Project-4",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "unicircle",
+      "slug": "unicircle",
+      "title": "UniCircle",
+      "repoName": "unicircle",
+      "tagline": "A campus community platform connecting students, clubs and events in one circle.",
+      "category": "Web Platform",
+      "featured": true,
+      "year": "2026",
+      "status": "In Progress",
+      "role": "Full Stack Developer",
+      "accent": "cyan",
+      "description": "UniCircle is a community platform for university students to discover clubs, join events, share updates and collaborate. Built with a modern HTML/CSS/JavaScript frontend with modular pages, interactive feeds and responsive layouts.",
+      "highlights": [
+        "Student profiles, club pages and an event discovery feed.",
+        "Interactive, responsive UI with modular JavaScript components.",
+        "Designed to plug into a Node.js / Firebase backend for auth and real-time data.",
+        "Clean information architecture focused on discoverability and engagement."
+      ],
+      "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design",
+        "Firebase (planned)"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/unicircle",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "career-link",
+      "slug": "career-link",
+      "title": "Career-Link",
+      "repoName": "Career-Link",
+      "tagline": "Job & career portal connecting candidates with opportunities.",
+      "category": "Web App",
+      "featured": true,
+      "year": "2026",
+      "status": "Live",
+      "role": "Frontend Developer",
+      "accent": "emerald",
+      "description": "Career-Link is a React-based job portal where candidates can explore openings, view role details and apply, while recruiters can publish listings. Deployed on Vercel with a fast, component-driven UI.",
+      "highlights": [
+        "Job listings with search and category-based filtering.",
+        "Candidate and recruiter flows with clean, responsive pages.",
+        "Component-driven React architecture with React Router.",
+        "Deployed on Vercel with production build optimisations."
+      ],
+      "tech": [
+        "React.js",
+        "JavaScript",
+        "React Router",
+        "CSS3",
+        "Vite",
+        "Vercel"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/Career-Link",
+        "live": "https://career-link-sepia.vercel.app"
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "vinzag",
+      "slug": "vin-zag-website",
+      "title": "VIN-ZAG Website",
+      "repoName": "VIN-ZAG-Website-html",
+      "tagline": "Modern business website with animated sections and responsive design.",
+      "category": "Business Website",
+      "featured": true,
+      "year": "2025",
+      "status": "Completed",
+      "role": "Frontend Developer",
+      "accent": "orange",
+      "description": "A multi-section marketing website for VIN-ZAG built with semantic HTML, modern CSS and vanilla JavaScript. Includes animated hero, services, gallery and contact sections optimised for SEO and mobile devices.",
+      "highlights": [
+        "Pixel-perfect responsive layout across desktop, tablet and mobile.",
+        "Scroll animations, sliders and interactive navigation in vanilla JavaScript.",
+        "SEO-friendly semantic structure and optimised assets.",
+        "Contact & enquiry sections ready for backend integration."
+      ],
+      "tech": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Responsive Design",
+        "SEO"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/VIN-ZAG-Website-html",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "service-connect",
+      "slug": "service-connect",
+      "title": "Service Connect",
+      "repoName": "Service-Connect-Project",
+      "tagline": "Django platform connecting customers with verified local service providers.",
+      "category": "Full Stack",
+      "featured": true,
+      "year": "2025",
+      "status": "Completed",
+      "role": "Full Stack Developer",
+      "accent": "blue",
+      "description": "Service Connect is a full-stack Django application where customers can discover, book and review local service providers, while providers manage their profiles, availability and bookings through a dedicated dashboard.",
+      "highlights": [
+        "Role-based accounts for customers, service providers and admins.",
+        "Service listings with categories, search and booking workflow.",
+        "Secure authentication, profile management and reviews.",
+        "Django ORM models with optimised queries and admin dashboard."
+      ],
+      "tech": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "SQLite",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "Bootstrap"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/Service-Connect-Project",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "ecommerce",
+      "slug": "ecommerce-platform",
+      "title": "E-Commerce Platform",
+      "repoName": "ecommerce-website",
+      "tagline": "Full-featured online store with cart, orders, payments and admin dashboard.",
+      "category": "Full Stack",
+      "featured": true,
+      "year": "2025",
+      "status": "Completed",
+      "role": "Full Stack Developer",
+      "accent": "pink",
+      "description": "A fully functional e-commerce website built with Django that allows users to browse products, manage their shopping cart and make secure purchases. Includes user authentication, product catalog with categories, search, order tracking, payment integration and a responsive Bootstrap frontend. Deployed on PythonAnywhere with HTTPS, CSRF protection and caching.",
+      "highlights": [
+        "Product catalog with categories, search, filters and detailed product pages.",
+        "Shopping cart with dynamic updates, order placement and real-time order tracking.",
+        "Secure APIs for user management, order processing and payment integration (Stripe / PayPal).",
+        "Admin dashboard to manage products, categories, users and orders.",
+        "Deployed on PythonAnywhere with HTTPS, CSRF protection and caching for performance."
+      ],
+      "tech": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "PostgreSQL",
+        "SQLite",
+        "Bootstrap",
+        "JavaScript",
+        "Stripe",
+        "PythonAnywhere"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/ecommerce-website",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "social",
+      "slug": "social-media-clone",
+      "title": "Social Media Clone",
+      "repoName": "Social-Media-Clone",
+      "tagline": "Social platform with posts, likes, comments, shares and a personalised feed.",
+      "category": "Full Stack",
+      "featured": false,
+      "year": "2025",
+      "status": "Completed",
+      "role": "Full Stack Developer",
+      "accent": "violet",
+      "description": "A social media platform with user authentication, profile management, posts, likes, comments, shares and a personalised newsfeed. Backend built with Django, DRF and SQLite, frontend with Bootstrap, deployed on PythonAnywhere.",
+      "highlights": [
+        "Authentication, profiles, posts, likes, comments and shares.",
+        "Personalised newsfeed with optimised database models.",
+        "Secure REST APIs with Django REST Framework.",
+        "Deployed with HTTPS, CSRF protection and caching."
+      ],
+      "tech": [
+        "Python",
+        "Django",
+        "Django REST Framework",
+        "SQLite",
+        "Bootstrap",
+        "JavaScript"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/Social-Media-Clone",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    },
+    {
+      "id": "openings-mcp",
+      "slug": "openings-mcp",
+      "title": "Openings MCP Server",
+      "repoName": "openings-mcp",
+      "tagline": "One MCP server to search job boards and company career sites from any AI assistant.",
+      "category": "AI / MCP",
+      "featured": false,
+      "year": "2026",
+      "status": "In Progress",
+      "role": "Developer",
+      "accent": "cyan",
+      "description": "A Model Context Protocol server that exposes job-board and career-site search as tools, so AI assistants like Claude and Cursor can find openings, filter by role and location, and summarise results directly in chat.",
+      "highlights": [
+        "MCP tools for searching multiple job boards and career pages.",
+        "Structured results with role, company, location and links.",
+        "Works with Claude Desktop, Cursor and other MCP clients.",
+        "Foundation for AI-driven career assistants."
+      ],
+      "tech": [
+        "Node.js",
+        "TypeScript",
+        "Model Context Protocol",
+        "REST APIs"
+      ],
+      "links": {
+        "github": "https://github.com/Nikhilk70/openings-mcp",
+        "live": ""
+      },
+      "media": {
+        "cover": "",
+        "video": "",
+        "gallery": []
+      }
+    }
+  ],
+  "education": [
+    {
+      "id": "bba",
+      "degree": "Bachelor of Business Administration",
+      "institution": "East West College of Management",
+      "location": "Bengaluru, India",
+      "start": "June 2019",
+      "end": "September 2022"
+    },
+    {
+      "id": "hse",
+      "degree": "Higher Secondary",
+      "institution": "KPSMM VHSE Ottapalam",
+      "location": "Palakkad, Kerala",
+      "start": "June 2017",
+      "end": "March 2019"
+    }
+  ],
+  "certificates": [
+    {
+      "id": "python",
+      "title": "Python Programming Language",
+      "issuer": "Certification Course",
+      "points": [
+        "Mastered core Python programming concepts, data structures and algorithms.",
+        "Hands-on experience building web applications using Django, Django REST Framework and Flask."
+      ]
+    },
+    {
+      "id": "django",
+      "title": "Python Django",
+      "issuer": "Certification Course",
+      "points": [
+        "Comprehensive knowledge of web development using the Django framework.",
+        "Built multiple projects including a blog platform, social media app and e-commerce website using Django and DRF."
+      ]
+    }
+  ]
+}

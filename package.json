@@ -1,0 +1,17 @@
+{
+  "name": "nikhil-portfolio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Nikhil K K — Full Stack Developer portfolio (React + Node.js)",
+  "scripts": {
+    "dev": "concurrently -n client,server -c cyan,magenta \"npm run dev --prefix client\" \"npm run dev --prefix server\"",
+    "install:all": "npm install && npm install --prefix client && npm install --prefix server",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "preview": "npm run preview --prefix client",
+    "seed:firebase": "npm run seed --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
